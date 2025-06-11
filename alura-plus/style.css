@@ -1,4 +1,3 @@
-
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
@@ -84,5 +83,9 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
-    
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
 }
